@@ -1,0 +1,11 @@
+.titulo {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .fondo {
+        background-image: url("/static/images/asukaMobile.jpg");
+    }
+}
